@@ -22,21 +22,21 @@ let random = Math.floor(3 * Math.random());
 
 let arr = [
   {
-    img: "customers.jpg",
+    img: "img/customers.jpg",
     title: "We couldn't live without these chairs anymore",
     content:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorrepellat at, nesciunt quia cum minima ipsum culpa totam sapienterecusandae earum debitis doloribus in quasi voluptatibus!",
     author: "&mdash; Mary and Sarah Johnson",
   },
   {
-    img: "customers2.jpg",
+    img: "img/customers2.jpg",
     title: "The best product we bought!",
     content:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, voluptatem a.Praesentium, perspiciatis pariatur ab itaque odio at quod excepturi quiaaccusamus! Quasi quo deleniti",
     author: "&mdash; John and Stefani White",
   },
   {
-    img: "customers3.jpg",
+    img: "img/customers3.jpg",
     title: "Simply Value for money",
     content:
       "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo",
